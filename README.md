@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdulghanialjuhi
-- 👀 I’m interested in react js and react native
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on react js and react native
+- 👋 Hi, I’m @abdulghani aljuhi
+- ✌🏼 i'm full stack developer
+- 👀 I’m interested in react js and python (flask)
+- 💞️ I’m looking to collaborate on react js and flask
 
 
 <!---
