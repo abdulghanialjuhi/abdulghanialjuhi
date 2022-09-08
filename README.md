@@ -4,7 +4,6 @@ web developer who specializes in developing user interface using React/Next JS a
 
 Skills: REACT / JS / HTML / CSS / NEXT JS / FLASK
 
-- 🔭 I’m currently working on this page. 
 - 💬 Ask me about web development 
 
 
