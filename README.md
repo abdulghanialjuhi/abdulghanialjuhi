@@ -1,8 +1,12 @@
-### Hi there 👋, my name is Abdulghani Al-Juhi
+# Abdulghani Al-Juhi
 #### I am Full-Stack Web Developer
 web developer who specializes in developing user interface using React/Next JS and skills to work with back-end using Flask to build full-stack websites.
 
-Skills: REACT / JS / HTML / CSS / NEXT JS / FLASK
+## Skills and expernce:
+* ⚛️ React, Next Js
+* 💻 HTML, CSS, JS, Flask
+
+
 
 - 💬 Ask me about web development 
 
